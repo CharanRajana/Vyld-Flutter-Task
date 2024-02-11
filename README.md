@@ -1,14 +1,12 @@
 
 # Vyld Flutter Task
 
-Implemented all the necessary details mentioned in the given task.
+I've completed the take-home challenge for the Flutter Developer position. The code recreates the provided design as requested. 
 
 
 ## Screenshots
 
-![Imgur App Screenshot](https://imgur.com/a/QN1QZUv.jpg)
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+<img src="screenshots/flutter_01.png" width="200"> <img src="screenshots/flutter_02.png" width="200"> <img src="screenshots/flutter_03.png" width="200"> 
 
 
 
@@ -17,13 +15,13 @@ Implemented all the necessary details mentioned in the given task.
 Clone the project
 
 ```bash
-  git clone https://github.com/CharanRajana/Vyld-Flutter-Task.git
+  git clone https://github.com/CharanRajana/vyld_flutter_task.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd local-rep-location/vyld_flutter_task
 ```
 
 Install dependencies
@@ -41,4 +39,4 @@ Start the flutter project
 
 ## Download
 
-To download a prebuilt apk of this project for a quicker overview, head over to this Google Drive [link](https://google.com)
+To download a prebuilt apk of this project for a quicker overview, head over to this Google Drive [link](https://drive.google.com/file/d/1dzmNGYYcjB0atPKjSL9Z8-UfjAdeaXbS/view?usp=drivesdk)

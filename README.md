@@ -1,16 +1,44 @@
-# vyld_flutter_task
 
-A new Flutter project.
+# Vyld Flutter Task
 
-## Getting Started
+Implemented all the necessary details mentioned in the given task.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Imgur App Screenshot](https://imgur.com/a/QN1QZUv.jpg)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
+
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/CharanRajana/Vyld-Flutter-Task.git
+```
+
+Go to the project directory
+
+```bash
+  cd my-project
+```
+
+Install dependencies
+
+```bash
+  flutter pub get
+```
+
+Start the flutter project
+
+```bash
+  flutter run
+```
+
+
+## Download
+
+To download a prebuilt apk of this project for a quicker overview, head over to this Google Drive [link](https://google.com)

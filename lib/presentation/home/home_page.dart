@@ -3,10 +3,10 @@ import 'package:vyld_flutter_task/common/widgets/custom_bg_gradient.dart';
 import 'package:vyld_flutter_task/common/widgets/custom_carousel.dart';
 import 'package:vyld_flutter_task/common/widgets/social_connections.dart';
 import 'package:vyld_flutter_task/data/data_repository.dart';
-import 'package:vyld_flutter_task/screens/widgets/addas.dart';
-import 'package:vyld_flutter_task/screens/widgets/friends.dart';
-import 'package:vyld_flutter_task/screens/widgets/games.dart';
-import 'package:vyld_flutter_task/screens/widgets/suggested.dart';
+import 'package:vyld_flutter_task/presentation/home/widgets/addas.dart';
+import 'package:vyld_flutter_task/presentation/home/widgets/friends.dart';
+import 'package:vyld_flutter_task/presentation/home/widgets/games.dart';
+import 'package:vyld_flutter_task/presentation/home/widgets/suggested.dart';
 import 'package:vyld_flutter_task/utils/helper_extensions.dart';
 
 class HomePage extends StatelessWidget {

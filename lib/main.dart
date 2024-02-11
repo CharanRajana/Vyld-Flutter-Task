@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:vyld_flutter_task/screens/home_page.dart';
+import 'package:vyld_flutter_task/presentation/home/home_page.dart';
 
 void main() {
   runApp(

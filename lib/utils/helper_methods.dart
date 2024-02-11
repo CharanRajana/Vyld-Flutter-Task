@@ -29,7 +29,7 @@ SnackBar customSnackBar(Friend friend, TextStyle style, bool isAdded) {
               TextSpan(
                 children: [
                   TextSpan(
-                    text: '${friend.name} ',
+                    text: '${friend.name} is ',
                     style: style,
                   ),
                   TextSpan(
@@ -37,7 +37,7 @@ SnackBar customSnackBar(Friend friend, TextStyle style, bool isAdded) {
                     style: style.copyWith(fontWeight: FontWeight.bold),
                   ),
                   TextSpan(
-                    text: 'your Friend\'s Network',
+                    text: 'your Friends Network',
                     style: style,
                   ),
                 ],
